@@ -14,17 +14,22 @@ Each entry documents:
 ## Structure
 
 ```
-/sites          # Studies by company
+/saas           # SaaS & company marketing sites
   /stripe
-  /apple
-  /airbnb
   /linear
+  /calendly
+  ...
+
+/local          # Local business & client sites  
+  /grooming
+  /trades       # plumbers, roofers, etc.
+  /services
   ...
 
 /patterns       # Cross-site patterns
   scroll-effects.md
   color-transitions.md
-  micro-interactions.md
+  hero-sections.md
   ...
 ```
 
